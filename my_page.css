@@ -46,6 +46,7 @@ nav ul li:hover { background: #126d9b; }
 #photo { background : ghostwhite;
 		border-style : outset; 
 		border-color : #FFCB42;
+		width: 1000px;
 		margin : 10px;
 		border-width : 10px;
 		padding : 0px; }
