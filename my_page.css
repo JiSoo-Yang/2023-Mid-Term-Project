@@ -4,7 +4,7 @@ h1 { font-size: 45px; text-align : center; color : white; }
 p strong { color : black; background : #FFCB42; }
 aside > h3 { text-indent : 1em; }
 
-nav { background: #FFCB42; right: 0; }
+nav { background: #FFCB42; right: 0; width: 1250px; }
 nav ul {
             font-size: 0;
             margin: 0;
@@ -27,7 +27,7 @@ nav ul li:hover { background: #126d9b; }
 		padding : 0px;
 		border-radius : 0px; }*/
 #introduction { background : ghostwhite; 
-			width : 960px;
+			width : 700px;
 			padding : 20px;
 			border-radius : 30px; 
 			border : 7px solid #FFCB42; }
