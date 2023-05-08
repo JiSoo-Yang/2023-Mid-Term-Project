@@ -12,6 +12,7 @@ h2 { font-size: 30px; font-family: 'Roboto Mono', monospace; text-align : left; 
 p { font-size: 16px; font-family: 'LINESeedKR-Bd'; color : black; }
 h3 { font-size: 30px; font-family: 'Roboto Mono', monospace; text-align : left; color : #FFCB42; }
 h4 { font-size: 18px; font-family: 'LINESeedKR-Bd'; text-align : left; color : white; }
+h5 { font-size: 16px; font-family: 'LINESeedKR-Bd'; text-align : right; color : black; }
 p strong { color : black; background : #FFCB42; }
 aside > h3 { text-indent : 1em; }
 
